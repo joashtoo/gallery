@@ -1,6 +1,13 @@
 infor about this project
 
-change 1
-change 2
-change 3
-change 4
+#changed username and password in config.js file
+
+#created readme.md file
+
+#launch json to run script
+
+#created the Jenkinsfile
+Set up to run project automatically
+
+#Updated Readme.md
+
